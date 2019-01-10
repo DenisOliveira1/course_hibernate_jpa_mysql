@@ -1,0 +1,5 @@
+para deixar mysql tem que mudar:
+
+1. a dependencia importada no maven
+2. os dados do persistence.xml
+3. a tabela deve ser criada no mysql
